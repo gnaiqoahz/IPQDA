@@ -1,0 +1,4 @@
+n_epochs: 250
+learning_rate: 0.1
+weight_decay: 0.001
+momentum: 0.8
