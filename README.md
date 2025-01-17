@@ -4,6 +4,10 @@
 ## 1. Introduction
 The objective of this project is to develop a Python pipeline for single-cell analysis in microscopy images, focusing on the localization and quantification of β-catenin and nuclear markers. This pipeline uses deep learning tools like Cellpose for image segmentation, skimage for quantitative analysis and TrackMate for single-cell tracking.
 
+<div align="center">
+  <img src="/imgs/Group_Plan.png" width="100%">
+</div>
+
 ## 2. Data Preparation
 ### 2.1 Creation of Folder Structure
 The folder structure is shown in Figure 1.
